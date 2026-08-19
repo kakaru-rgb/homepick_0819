@@ -211,6 +211,7 @@ pyrightconfig.json
 
 # Local History for Visual Studio Code
 .history/
+!gradle-wrapper.jar
 
 # Built Visual Studio Code Extensions
 *.vsix
