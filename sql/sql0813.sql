@@ -1,11 +1,11 @@
--- Active: 1786675857860@@gateway01.ap-northeast-1.prod.aws.tidbcloud.com@4000@homepick
+-- Active: 1786675857860@@gateway01.ap-northeast-1.prod.aws.tidbcloud.com@4000@Zip_chatGo
 -- UTF-8(utf8mb4) 인코딩 설정으로 스키마 생성
-CREATE DATABASE IF NOT EXISTS homepick
+CREATE DATABASE IF NOT EXISTS Zip_chatGo
 DEFAULT CHARACTER SET utf8mb4
 DEFAULT COLLATE utf8mb4_unicode_ci;
 
 -- 생성된 스키마 사용
-USE homepick;
+USE Zip_chatGo;
 
 -- 테이블 생성
 -- QnA 게시판
